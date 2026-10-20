@@ -1,0 +1,1 @@
+FROM python:3.12-slim\nWORKDIR /app\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nCOPY requirements.txt .\nRUN pip install --no-cache-dir -r requirements.txt\nCOPY app ./app\nEXPOSE 8000\nCMD ["uvicorn","app.main:app","--host","0.0.0.0","--port","8000"]\n

@@ -1,0 +1,32 @@
+{
+  "job_id": "e3805c3e-98c9-414b-bdf4-63ff321bf6ff",
+  "status": "completed",
+  "input_type": "uploaded_audio",
+  "voice_requested": "uploaded_audio",
+  "voice_used": "uploaded_audio",
+  "output_files": {
+    "video": "video.mp4",
+    "audio": "narration.mp3",
+    "captions": "captions.srt",
+    "timeline": "timeline.json",
+    "manifest": "manifest.json"
+  },
+  "video_settings": {
+    "width": 1280,
+    "height": 720,
+    "frame_rate": 30,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "implemented_aspect_ratio": "16:9"
+  },
+  "generation": {
+    "scene_count": 2,
+    "duration_seconds": 6.46
+  },
+  "warnings": [
+    "Scene timings are estimated by word count.",
+    "Footage licensing and attribution are not automatically verified.",
+    "Only 16:9 output is implemented in this prototype.",
+    "Model/provider version, cost and random seed are not tracked."
+  ]
+}

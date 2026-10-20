@@ -1,0 +1,1 @@
+services:\n  api:\n    build: .\n    ports:\n      - "8000:8000"\n    env_file:\n      - .env\n    volumes:\n      - ./outputs:/app/outputs\n

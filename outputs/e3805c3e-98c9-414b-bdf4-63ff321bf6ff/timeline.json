@@ -1,0 +1,36 @@
+{
+  "job_id": "e3805c3e-98c9-414b-bdf4-63ff321bf6ff",
+  "total_duration_seconds": 6.46,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "text": "Saving money helps us prepare for the future.",
+      "visual_hint": "Saving money helps us prepare for the future.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 2.72,
+      "timing_method": "estimated_by_word_count",
+      "footage_source": null,
+      "licence": null,
+      "attribution": null,
+      "ai_generated": null,
+      "warning": "Footage source and licence require verification."
+    },
+    {
+      "scene_number": 2,
+      "text": "A budget helps us track expenses and reach our financial goals",
+      "visual_hint": "A budget helps us track expenses and reach our financial goals",
+      "start_time_seconds": 2.72,
+      "end_time_seconds": 6.46,
+      "timing_method": "estimated_by_word_count",
+      "footage_source": null,
+      "licence": null,
+      "attribution": null,
+      "ai_generated": null,
+      "warning": "Footage source and licence require verification."
+    }
+  ],
+  "warnings": [
+    "Scene timings are estimates, not speech-aligned timestamps.",
+    "Footage licence and attribution have not been automatically verified."
+  ]
+}

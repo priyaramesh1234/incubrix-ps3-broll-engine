@@ -1,0 +1,1 @@
+# Sources and licences\nStarter libraries: FastAPI, Pydantic, Uvicorn, pytest, HTTPX. Verify and record current licences before submission. No footage or model provider is connected yet. Record every future model, API, dataset, media source, URL, version and commercial-use licence here.\n

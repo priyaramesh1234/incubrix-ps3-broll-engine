@@ -1,0 +1,49 @@
+{
+  "job_id": "85c6b667-d7eb-4b90-868c-a6ae76d1220e",
+  "total_duration_seconds": 15.58,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "text": "Saving money helps us build a secure future and achieve our financial goals.",
+      "visual_hint": "Saving money helps us build a secure future and achieve our financial goals.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 5.47,
+      "timing_method": "estimated_by_word_count",
+      "footage_source": null,
+      "licence": null,
+      "attribution": null,
+      "ai_generated": null,
+      "warning": "Footage source and licence require verification."
+    },
+    {
+      "scene_number": 2,
+      "text": "Calculate monthly income and expenses to plan spending and savings wisely.",
+      "visual_hint": "Calculate monthly income and expenses to plan spending and savings wisely.",
+      "start_time_seconds": 5.47,
+      "end_time_seconds": 10.11,
+      "timing_method": "estimated_by_word_count",
+      "footage_source": null,
+      "licence": null,
+      "attribution": null,
+      "ai_generated": null,
+      "warning": "Footage source and licence require verification."
+    },
+    {
+      "scene_number": 3,
+      "text": "Record daily expenses to track spending, avoid unnecessary purchases, and save more money.",
+      "visual_hint": "Record daily expenses to track spending, avoid unnecessary purchases, and save more money.",
+      "start_time_seconds": 10.11,
+      "end_time_seconds": 15.58,
+      "timing_method": "estimated_by_word_count",
+      "footage_source": null,
+      "licence": null,
+      "attribution": null,
+      "ai_generated": null,
+      "warning": "Footage source and licence require verification."
+    }
+  ],
+  "warnings": [
+    "Scene timings are estimates, not speech-aligned timestamps.",
+    "Footage licence and attribution have not been automatically verified."
+  ]
+}
